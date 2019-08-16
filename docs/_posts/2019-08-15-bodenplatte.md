@@ -4,7 +4,7 @@ title: "Bodenplatte #1"
 author: "hautaklyttn"
 categories: documentation
 tags: [documentation,sample]
-image: 15_08_2019_(1).jpg
+image: bodenplatte_front.jpg
 ---
 
 ![(02)](../assets/img/15_08_2019_(2).jpg)
