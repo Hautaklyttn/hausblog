@@ -1,5 +1,5 @@
 # hausblog
-Foto-Dokumentation unseres EFH  
+Foto-Dokumentation des Baufortschritts unseres EFH  
 
 <br>
 
