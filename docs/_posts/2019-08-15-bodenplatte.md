@@ -15,4 +15,6 @@ image: bodenplatte_front.jpg
 
 ![(05)](../assets/img/15_08_2019_(5).jpg)
 
-![(06)](../assets/img/15_08_2019_(6).jpg)
+![(06)](../assets/img/15_08_2019_(6).jpg)  
+
+[Zurück](/.)  
