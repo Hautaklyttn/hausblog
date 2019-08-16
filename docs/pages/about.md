@@ -1,6 +1,9 @@
 ---
 layout: misc
-title: About
+title:
 ---
 
-Foto-Dokumentation unseres Hausbaus für Verwandte und Freunde.
+**Ausführende Unternehmen:**  
+
+Architekt: ARCHIDEE, Gießen  
+Rohbau: Philipp Bauunternehmen GmbH & Co. KG, Lautertal
