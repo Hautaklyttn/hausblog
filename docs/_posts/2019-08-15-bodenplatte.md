@@ -15,7 +15,15 @@ image: bodenplatte_front.jpg
 
 ![(05)](../assets/img/15_08_2019_(5).jpg)
 
-![(06)](../assets/img/15_08_2019_(6).jpg)
+![(06)](../assets/img/15_08_2019_(6).jpg)  
+
+<br>
+
+***  
+
+<br>
+
+<font size="-1"><span style="color:#9d9d9d ">August 16th, 2019 by hautaklyttn</span></font>
 
 ![(07)](../assets/img/15_08_2019_(7).jpg)
 
