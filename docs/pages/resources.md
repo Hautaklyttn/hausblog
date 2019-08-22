@@ -15,6 +15,6 @@ title: ''
 
 # 3D Ansichten
 
-![(nw)](../assets/img/3d_01.jpg)
+![(3d_01)](../assets/img/drei_d_01.jpg)
 
 Weitere Inhalte folgen...
