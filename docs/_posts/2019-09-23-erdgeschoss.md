@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Das Erdgeschoss ensteht"
+title: "Das Erdgeschoss entsteht"
 author: "hautaklyttn"
 categories: documentation
 tags: [documentation,sample]
