@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link href="../assets/css/lightbox.css" rel="stylesheet" />
+
 <div class="page-content">
   <h1>
     {{ page.title }}
@@ -27,7 +29,7 @@ layout: default
 
   {% if page.image %}
     <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+      <img src="../assets/img/{{ page.image }}">
     </div>
   {% endif %}
 
@@ -39,8 +41,6 @@ layout: default
     {% include disqus.html %}
   {% endif %}
 
-  <script src="../assets/jquery.js"></script>
-  {% include lightbox.html %}
+  <script src="../assets/js/lightbox-plus-jquery.js"></script>
 
-  
 </div>
