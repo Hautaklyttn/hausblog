@@ -7,6 +7,8 @@ tags: [documentation,sample]
 image: bodenplatte02_front.jpg
 ---
 
+<a href="../assets/img/bodenplatte02_front.jpg" data-lightbox="Bodenplatte #2" data-title="">![(02)](../assets/img/bodenplatte02_front.jpg)</a>
+
 <a href="../assets/img/20_08_2019_(2).jpg" data-lightbox="Bodenplatte #2" data-title="">![(02)](../assets/img/20_08_2019_(2).jpg)</a>
 
 <a href="../assets/img/20_08_2019_(3).jpg" data-lightbox="Bodenplatte #2" data-title="">![(03)](../assets/img/20_08_2019_(3).jpg)</a>
