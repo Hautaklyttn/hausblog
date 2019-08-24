@@ -3,7 +3,7 @@ layout: misc
 title:
 ---
 
-**Ausführende Unternehmen:**  
+**Ausführende Unternehmen**  
 
 Architekt: ARCHIDEE, Gießen  
 
