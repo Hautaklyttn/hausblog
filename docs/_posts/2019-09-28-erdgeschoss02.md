@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: erdgeschoss02_front.jpg
 ---
 
-<a href="../assets/img/erdgeschoss02_front.jpg" data-lightbox="EG02" data-title="">![(02)](../assets/img/erdgeschoss_front.jpg)</a>
+<a href="../assets/img/erdgeschoss02_front.jpg" data-lightbox="EG02" data-title="">![(02)](../assets/img/erdgeschoss02_front.jpg)</a>
 
 <a href="../assets/img/28_08_2019_(1).jpg" data-lightbox="EG02" data-title="">![(06)](../assets/img/28_08_2019_(1).jpg)</a>
 
