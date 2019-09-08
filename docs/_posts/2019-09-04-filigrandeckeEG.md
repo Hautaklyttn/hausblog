@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Decke EG #1"
+title: "Decke Erdgeschoss #1"
 author: "hautaklyttn"
 categories: documentation
 tags: [documentation,sample]
