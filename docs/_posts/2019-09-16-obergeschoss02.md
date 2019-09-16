@@ -27,4 +27,6 @@ image: obergeschoss02_front.jpg
 
 <a href="../assets/img/16_09_2019_(9).jpg" data-lightbox="OG2" data-title="">![(10)](../assets/img/16_09_2019_(9).jpg)</a>
 
+<a href="../assets/img/16_09_2019_(10).jpg" data-lightbox="OG2" data-title="">![(10)](../assets/img/16_09_2019_(10).jpg)</a>
+
 [Zurück](/hausblog)  
