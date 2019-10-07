@@ -7,8 +7,6 @@ tags: [documentation,sample]
 image: beginnInnen_front.jpg
 ---
 
-<a href="../assets/img/beginnInnen_front.jpg" data-lightbox="begInn" data-title="">![(02)](../assets/img/beginnInnen_front.jpg)</a>
-
 <a href="../assets/img/07_10_2019_(1).jpg" data-lightbox="begInn" data-title="">![(02)](../assets/img/07_10_2019_(1).jpg)</a>
 
 <a href="../assets/img/07_10_2019_(2).jpg" data-lightbox="begInn" data-title="">![(02)](../assets/img/07_10_2019_(2).jpg)</a>
