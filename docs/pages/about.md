@@ -11,6 +11,14 @@ Erdarbeiten: Burkhard Barth Baggerbetrieb, Kirchvers
 
 Rohbau: Philipp Bauunternehmen GmbH & Co. KG, Lautertal  
 
+Dachdecker: Ußner GmbH, Rabenau-Londorf  
+
+Fensterbauer: Boller & Jakobi, Langgöns-Oberkleen  
+
+Sanitär + Heizung: Michael Mono Versorgungstechnik, Gießen  
+
+Elektroinstallation: Abert Elektro, Wettenberg-Krofdorf  
+
 <br>
 
 <br>
