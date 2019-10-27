@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: ohneGeruest_front.jpg
 ---
 
-<a href="../assets/img/ohneGeruest_front.jpg" data-lightbox="GFrei" data-title="">![(01)](../assets/img/letztesMauern_front.jpg)</a>
+<a href="../assets/img/ohneGeruest_front.jpg" data-lightbox="GFrei" data-title="">![(01)](../assets/img/ohneGeruest_front.jpg)</a>
 
 <a href="../assets/img/24_10_2019_(1).jpg" data-lightbox="GFrei" data-title="">![(02)](../assets/img/24_10_2019_(1).jpg)</a>
 
