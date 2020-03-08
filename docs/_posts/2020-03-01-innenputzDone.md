@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fertiger Innenputz"
+title: "Fertigstellung Innenputz"
 author: "hautaklyttn"
 categories: documentation
 tags: [documentation,sample]
