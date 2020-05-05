@@ -25,6 +25,8 @@ Fliesenarbeiten: Scheld Baukeramik, Gießen
 
 Parkettarbeiten: Raumausstatter Henkel, Heuchelheim  
 
+Kaminarbeiten: Uhrig Kamin Design, Hofheim  
+
 <br>
 
 <br>
