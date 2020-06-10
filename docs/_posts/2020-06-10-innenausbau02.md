@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Innenausbau #2"
+title: "Böden & Wände #2"
 author: "hautaklyttn"
 categories: documentation
 tags: [documentation,sample]
